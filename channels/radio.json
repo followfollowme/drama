@@ -1,0 +1,42 @@
+{
+  "channel_id": "radio",
+  "updated_at": "2026-08-04T10:00:00Z",
+  "videos": [
+    {
+      "name": "中央人民广播电台 - 中国之声",
+      "link": "https://example.com/radio1.m3u8",
+      "preview_image": "https://example.com/covers/radio1.png",
+      "actors": "",
+      "episodes": "直播",
+      "is_live": true,
+      "description": "新闻、时事、综合频率"
+    },
+    {
+      "name": "中央人民广播电台 - 音乐之声",
+      "link": "https://example.com/radio2.m3u8",
+      "preview_image": "https://example.com/covers/radio2.png",
+      "actors": "",
+      "episodes": "直播",
+      "is_live": true,
+      "description": "24小时流行音乐频率"
+    },
+    {
+      "name": "BBC World Service",
+      "link": "https://example.com/radio3.m3u8",
+      "preview_image": "https://example.com/covers/radio3.png",
+      "actors": "",
+      "episodes": "直播",
+      "is_live": true,
+      "description": "24小时国际新闻广播（英文）"
+    },
+    {
+      "name": "北京音乐广播",
+      "link": "https://example.com/radio4.m3u8",
+      "preview_image": "https://example.com/covers/radio4.png",
+      "actors": "",
+      "episodes": "直播",
+      "is_live": true,
+      "description": "北京地区流行音乐频率"
+    }
+  ]
+}

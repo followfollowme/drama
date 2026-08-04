@@ -1,0 +1,33 @@
+{
+  "channel_id": "tv_series",
+  "updated_at": "2026-08-04T10:00:00Z",
+  "videos": [
+    {
+      "name": "狂飙2",
+      "link": "https://example.com/tv1.m3u8",
+      "preview_image": "https://example.com/covers/tv1.jpg",
+      "actors": "张译, 张颂文",
+      "episodes": "第1-40集",
+      "duration": "00:45:00",
+      "description": "扫黑斗争仍在继续，新一代干警与黑恶势力展开新一轮的较量..."
+    },
+    {
+      "name": "庆余年3",
+      "link": "https://example.com/tv2.m3u8",
+      "preview_image": "https://example.com/covers/tv2.jpg",
+      "actors": "张若昀, 李沁",
+      "episodes": "第1-45集",
+      "duration": "00:48:00",
+      "description": "范闲重返朝堂，与各方势力展开博弈，揭开庆国最大的秘密..."
+    },
+    {
+      "name": "人世间2",
+      "link": "https://example.com/tv3.m3u8",
+      "preview_image": "https://example.com/covers/tv3.jpg",
+      "actors": "雷佳音, 殷桃",
+      "episodes": "第1-50集",
+      "duration": "00:45:00",
+      "description": "周家三代人的故事继续，见证中国社会半个世纪的变迁与普通人的奋斗..."
+    }
+  ]
+}

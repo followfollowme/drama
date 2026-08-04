@@ -1,0 +1,33 @@
+{
+  "channel_id": "anime",
+  "updated_at": "2026-08-04T10:00:00Z",
+  "videos": [
+    {
+      "name": "海贼王 最终章",
+      "link": "https://example.com/anime1.m3u8",
+      "preview_image": "https://example.com/covers/anime1.jpg",
+      "actors": "田中真弓, 中井和哉",
+      "episodes": "第1100-1200集",
+      "duration": "00:24:00",
+      "description": "路飞带领草帽团抵达最终之岛，与黑胡子展开终极对决，One Piece 真相揭晓..."
+    },
+    {
+      "name": "鬼灭之刃 无限城篇",
+      "link": "https://example.com/anime2.m3u8",
+      "preview_image": "https://example.com/covers/anime2.jpg",
+      "actors": "花江夏树, 鬼头明里",
+      "episodes": "第1-24集",
+      "duration": "00:24:00",
+      "description": "鬼杀队进入无限城与无惨展开最终决战，柱们全力以赴..."
+    },
+    {
+      "name": "进击的巨人 后传",
+      "link": "https://example.com/anime3.m3u8",
+      "preview_image": "https://example.com/covers/anime3.jpg",
+      "actors": "梶裕贵, 石川由依",
+      "episodes": "第1-12集",
+      "duration": "00:24:00",
+      "description": "地鸣结束后，幸存者们重建家园，探索墙外新世界的故事..."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "channel_id": "hot_drama",
+  "updated_at": "2026-08-04T10:00:00Z",
+  "videos": [
+    {
+      "name": "重生之我在大厂写代码",
+      "link": "https://example.com/hot1.m3u8",
+      "preview_image": "https://example.com/covers/hot1.jpg",
+      "actors": "张三, 李四, 王五",
+      "episodes": "第1-100集",
+      "duration": "01:30:00",
+      "description": "程序员穿越回10年前，用技术改变命运，从普通实习生逆袭成为技术大佬..."
+    },
+    {
+      "name": "闪婚后总裁夫人藏不住了",
+      "link": "https://example.com/hot2.m3u8",
+      "preview_image": "https://example.com/covers/hot2.jpg",
+      "actors": "李明, 张小花",
+      "episodes": "第1-80集",
+      "duration": "01:15:00",
+      "description": "为了应付家族逼婚，两人协议闪婚，却在日常相处中渐生情愫..."
+    },
+    {
+      "name": "回到1998当首富",
+      "link": "https://example.com/hot3.m3u8",
+      "preview_image": "https://example.com/covers/hot3.jpg",
+      "actors": "王强, 赵丽",
+      "episodes": "第1-120集",
+      "duration": "01:45:00",
+      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+    }
+  ]
+}

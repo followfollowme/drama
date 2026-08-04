@@ -1,0 +1,33 @@
+{
+  "channel_id": "hk_drama",
+  "updated_at": "2026-08-04T10:00:00Z",
+  "videos": [
+    {
+      "name": "法证先锋6",
+      "link": "https://example.com/hk1.m3u8",
+      "preview_image": "https://example.com/covers/hk1.jpg",
+      "actors": "黄宗泽, 袁伟豪, 蔡洁",
+      "episodes": "第1-30集",
+      "duration": "00:43:00",
+      "description": "法证部与重案组联手，运用先进科技破解离奇案件，维护香港法治..."
+    },
+    {
+      "name": "新闻女王2",
+      "link": "https://example.com/hk2.m3u8",
+      "preview_image": "https://example.com/covers/hk2.jpg",
+      "actors": "佘诗曼, 马国明",
+      "episodes": "第1-25集",
+      "duration": "00:43:00",
+      "description": "传媒行业的权力斗争仍在继续，文慧心面对新的对手与挑战..."
+    },
+    {
+      "name": "使徒行者4",
+      "link": "https://example.com/hk3.m3u8",
+      "preview_image": "https://example.com/covers/hk3.jpg",
+      "actors": "苗侨伟, 林峯",
+      "episodes": "第1-30集",
+      "duration": "00:43:00",
+      "description": "卧底行动再次展开，卓凯带领新一批卧底深入犯罪集团核心..."
+    }
+  ]
+}

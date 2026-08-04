@@ -1,0 +1,33 @@
+{
+  "channel_id": "movie",
+  "updated_at": "2026-08-04T10:00:00Z",
+  "videos": [
+    {
+      "name": "星际穿越2",
+      "link": "https://example.com/movie1.m3u8",
+      "preview_image": "https://example.com/covers/movie1.jpg",
+      "actors": "马修·麦康纳, 安妮·海瑟薇",
+      "episodes": "完整版",
+      "duration": "02:45:00",
+      "description": "人类继续探索宇宙深处，寻找新的宜居星球，面对未知的时空挑战..."
+    },
+    {
+      "name": "速度与激情11",
+      "link": "https://example.com/movie2.m3u8",
+      "preview_image": "https://example.com/covers/movie2.jpg",
+      "actors": "范·迪塞尔, 杰森·斯坦森",
+      "episodes": "完整版",
+      "duration": "02:20:00",
+      "description": "唐老大带领家族面对有史以来最强大的敌人，一场速度与正义的终极对决..."
+    },
+    {
+      "name": "唐人街探案4",
+      "link": "https://example.com/movie3.m3u8",
+      "preview_image": "https://example.com/covers/movie3.jpg",
+      "actors": "王宝强, 刘昊然",
+      "episodes": "完整版",
+      "duration": "02:10:00",
+      "description": "唐仁和秦风再次卷入离奇案件，横跨欧亚大陆的侦探之旅即将展开..."
+    }
+  ]
+}
