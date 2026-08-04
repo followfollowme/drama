@@ -4,8 +4,8 @@
   "videos": [
     {
       "name": "重生之我在大厂写代码",
-      "link": "https://example.com/hot1.m3u8",
-      "preview_image": "https://example.com/covers/hot1.jpg",
+      "link": "https://hn.bfvvs.com/play/QdJvBGod/index.m3u8",
+      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
       "actors": "张三, 李四, 王五",
       "episodes": "第1-100集",
       "duration": "01:30:00",
@@ -13,8 +13,8 @@
     },
     {
       "name": "闪婚后总裁夫人藏不住了",
-      "link": "https://example.com/hot2.m3u8",
-      "preview_image": "https://example.com/covers/hot2.jpg",
+      "link": "https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/byted-player-videos/1.0.0/xgplayer-demo.mp4",
+      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
       "actors": "李明, 张小花",
       "episodes": "第1-80集",
       "duration": "01:15:00",
@@ -23,7 +23,7 @@
     {
       "name": "回到1998当首富",
       "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://example.com/covers/hot3.jpg",
+      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
       "actors": "王强, 赵丽",
       "episodes": "第1-120集",
       "duration": "01:45:00",
