@@ -4,8 +4,8 @@
   "updated_at": "2026-08-04T10:00:00Z",
   "min_supported_version": 100,
   "download_url": "https://raw.githubusercontent.com/followfollowme/drama/main/releases/ZeroBrowser-v1.1.0.apk",
-  "file_size": 0,
-  "md5": "",
+  "file_size": 27469824,
+  "md5": "165f4b07b8916415970624a15844515224272718",
   "changelog": [
     "v1.1.0: GitHub 数据源集成，新增广播频道支持"
   ],
