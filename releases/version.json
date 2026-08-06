@@ -1,13 +1,13 @@
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
+  "version_code": 1,
+  "version_name": "1.0.0",
   "updated_at": "2026-08-04T10:00:00Z",
   "min_supported_version": 100,
-  "download_url": "https://raw.githubusercontent.com/followfollowme/drama/main/releases/ZeroBrowser-v1.1.0.apk",
-  "file_size": 27469824,
-  "md5": "BB76D4D0E4CCB05DBB7BBD91A825F3D0",
+  "download_url": "https://raw.githubusercontent.com/followfollowme/drama/main/releases/ZeroBrowser-v1.0.0.apk",
+  "file_size": 27629568,
+  "md5": "D9522A4BF348AF1D23913629E842D950",
   "changelog": [
-    "v1.1.0: GitHub 数据源集成，新增广播频道支持"
+    "v1.0.0: Zero 一款可以看短剧的浏览器"
   ],
   "force_update": false
 }
