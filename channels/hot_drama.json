@@ -1,105 +1,420 @@
 {
   "channel_id": "hot_drama",
-  "updated_at": "2026-08-04T10:00:00Z",
+  "updated_at": "2026-08-16T09:28:13Z",
   "videos": [
     {
-      "name": "重生之我在大厂写代码",
-      "link": "https://hn.bfvvs.com/play/QdJvBGod/index.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "张三, 李四, 王五",
-      "episodes": "第1-100集",
-      "duration": "01:30:00",
-      "description": "程序员穿越回10年前，用技术改变命运，从普通实习生逆袭成为技术大佬..."
+      "name": "将门六妹2",
+      "link": "https://v.lzcdn34.com/20260812/579_c2e57e54/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/995593e00c63bf788c191020a52f2a6d.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "闪婚后总裁夫人藏不住了",
-      "link": "https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/byted-player-videos/1.0.0/xgplayer-demo.mp4",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "李明, 张小花",
-      "episodes": "第1-80集",
-      "duration": "01:15:00",
-      "description": "为了应付家族逼婚，两人协议闪婚，却在日常相处中渐生情愫..."
+      "name": "日薪一万，我在影视城捡废品第一季",
+      "link": "https://v.lzcdn34.com/20260810/246_b576f730/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260813-1/798042f1184f42f3c5c3bbd6a82b6ea7.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "师尊的心声太奇葩",
+      "link": "https://v.lzcdn34.com/20260812/603_63cde5cd/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/c7ebf56b545a9aaafc61a85a576f8072.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富2",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "误入狐族域，倾心爱慕狐王",
+      "link": "https://v.lzcdn34.com/20260810/232_dddaba69/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260813-1/71ea48067d6c67ad004cfdb1e7ad32d8.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富3",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "兽人：错把白虎认成银渐层表哥",
+      "link": "https://v.lzcdn34.com/20260811/515_28ddbaba/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/c94f2807b379ff8a9d0e262cba940a14.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富4",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "觉醒十殿阎罗吾即是红伞鬼仙",
+      "link": "https://v.lzcdn34.com/20260812/565_5b8633c6/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/6dff70bc612dcfd679e7362d07835088.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富5",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "厨神妻流放路上养出个帝王",
+      "link": "https://v.lzcdn34.com/20260812/604_8afbb372/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/a5b3148dccf6ec7df3ac574dc3fe446d.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富6",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "六殿下今天不装了",
+      "link": "https://v.lzcdn34.com/20260810/241_ff451784/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260813-1/469e94fae3e992867a6801521dbfd683.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富7",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "夜色寄情人，再见裴准聿",
+      "link": "https://v.lzcdn34.com/20260812/585_25e1432a/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/2ad1dd9b66a880267e718694951f297c.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富8",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "咸鱼才人守则",
+      "link": "https://v.lzcdn34.com/20260811/506_31915e42/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/3951ef96a1bde1f6fdb8294d0b757ab0.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
     },
     {
-      "name": "回到1998当首富9",
-      "link": "https://example.com/hot3.m3u8",
-      "preview_image": "https://img.bfzypic.com/upload/vod/20250107-1/c896adf60ab8509089527b053aa738ef.jpg",
-      "actors": "王强, 赵丽",
-      "episodes": "第1-120集",
-      "duration": "01:45:00",
-      "description": "意外重生到1998年，凭借先知先觉，抓住互联网浪潮，一步步缔造商业帝国..."
+      "name": "山野供销社：我跟百兽做买卖",
+      "link": "https://v.lzcdn34.com/20260812/572_69979d8c/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/fb408ec016ce54f764e4b2ec2991869e.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "荒野农妃传第一季",
+      "link": "https://v.lzcdn34.com/20260812/605_d45d96ba/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/3f86781bdf7fe12743b6de2be3dd65e7.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "穿进虐文被读心，我把暴君拿捏了",
+      "link": "https://v.lzcdn34.com/20260811/555_9e5c3df7/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/597ae487162666cbe454415258245214.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "摆摊挣学费，满朝权贵来排队",
+      "link": "https://v.lzcdn34.com/20260810/240_4c6e1146/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260813-1/fde484de94eec66be14b509eb0d9d833.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "侯爷归来寻故人",
+      "link": "https://v.lzcdn34.com/20260812/595_8f3229c2/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/9a5ce66644a17095994dec26771bdfca.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "基因猎食者：觉醒第三季",
+      "link": "https://v.lzcdn34.com/20260812/598_671478be/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/f835bdcef4b6ac6220a6321cda88ed6c.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "方教官，出门记得装不熟",
+      "link": "https://v11.ppqrrs.com/wjv11/202608/08/8HxFtbQ4j490/video/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260810-1/7c205c001266afd252d701e5a7f766cd.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "如果不良激战区的四天王转生成了偶像团体？",
+      "link": "https://v.lzcdn27.com/20260702/12350_1b6cf76b/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260702-1/5cd06def157b15050c88c8d57cd3ec0b.webp",
+      "actors": "",
+      "episodes": "更新至第09集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "深情为饵",
+      "link": "https://play.xluuss.com/play/dwpKY6Me/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260809-1/a228eee1c3d054bbeb652bf43576c9dd.webp",
+      "actors": "",
+      "episodes": "第18集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "寒衣入心",
+      "link": "https://play.xluuss.com/play/bqxZlNRa/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260814-1/2b46e308e28b0ea2e48604b8f4efe337.webp",
+      "actors": "",
+      "episodes": "第08集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "候冬症",
+      "link": "https://play.xluuss.com/play/erkmKyKa/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260810-1/48504e6f6129d090c884044c937c027f.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "觉醒追夫，高冷老公他夫凭子贵",
+      "link": "https://play.xluuss.com/play/e5yL7kZe/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/290506431dd7a4b5e6f8d8796067585a.png",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "青禾巷有一支队",
+      "link": "https://play.xluuss.com/play/dR61Pyqd/index.m3u8",
+      "preview_image": "https://pic.youkupic.com/upload/vod/20260813-1/d111db8c3600e9f13bdcdd204a140b45.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "侍妾一身反骨，奈何侯爷只宠长公主",
+      "link": "https://v10.ppqrrs.com/wjv10/202608/08/sDUzvjjW8S87/video/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260810-1/98eaf45205a890fcca68673a4d061133.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "妖魔乱世，从掠夺词条开始崛起",
+      "link": "https://play.xluuss.com/play/aADMwwOe/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260809-1/506aef1d516fae62ed83ff721e7d58dd.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "申公豹之都市封神",
+      "link": "https://v9.ppqrrs.com/wjv9/202608/13/vV8BuuZpXx92/video/index.m3u8",
+      "preview_image": "https://xl.xltupian.com/cover/ab5e686aecbf435075a3f856cfafb575.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "我和上司有本结婚证",
+      "link": "https://play.xluuss.com/play/bqxZQqRa/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/954eb762b13ab9e3b72a09d42f7d8808.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "玄门嫡女：名动皇城",
+      "link": "https://play.xluuss.com/play/azpXKVOd/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/48b2192220e8321b929fe02b5abb999e.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "大明朝天女之朝天阙上",
+      "link": "https://play.xluuss.com/play/e1w4GoRb/index.m3u8",
+      "preview_image": "https://pic.youkupic.com/upload/vod/20260813-1/933f93fa48ce831601ab09fdd46174f6.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "墙里砸出一个亿",
+      "link": "https://play.xluuss.com/play/ejR07XWe/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260811-1/60e648f546d3514761e21c0027714ae7.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "反派夫妻百事哀，今天在哪搞破坏",
+      "link": "https://play.xluuss.com/play/elY2Ajra/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260810-1/570d7fafe2efdb9b65dac59dc8d4ddc0.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "冒牌姐夫，竟是大夏真神",
+      "link": "https://play.xluuss.com/play/e31wyDQb/index.m3u8",
+      "preview_image": "https://pic.youkupic.com/upload/vod/20260813-1/54b09e229fa96d5819d999fca76af2f1.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "他出局了",
+      "link": "https://play.xluuss.com/play/azpX6RZd/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/6605a469a7e1e210be660e08c0e54e7c.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "重生一九五七：山野猎王",
+      "link": "https://play.xluuss.com/play/av2ZQXXa/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/66b9bb74fde7019f1bfadb72bde863de.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "冬隅手记：屿见清欢胜长安",
+      "link": "https://v6.ppqrrs.com/wjv6/202608/12/YVByxBD3v589/video/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/87ca8dc402496a032be500bd1b6828be.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "有幸可以重来，不负韶华不负卿",
+      "link": "https://play.xluuss.com/play/eZ6zqYwe/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260811-1/fe5eafa28916ccf2b7de409bdb23f6f9.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "葬神棺，埋人就变强",
+      "link": "https://v9.ppqrrs.com/wjv9/202608/15/CrXaQVsZsR96/video/index.m3u8",
+      "preview_image": "https://pic.youkupic.com/upload/vod/20260815-1/3014e5c33132e8d32e82c3360b51050a.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "七零下乡，打恶人带全村致富",
+      "link": "https://play.xluuss.com/play/azpX6OOd/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/e2e422982d593c608b3f2b19f7192791.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "武则天传奇2026",
+      "link": "https://v.lzcdn34.com/20260810/272_1017d8fa/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260811-1/bac8a94294a2e37a385aeab3b0a6e408.jpg",
+      "actors": "",
+      "episodes": "已完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "五十岁隐藏身份，我遇见真爱",
+      "link": "https://play.xluuss.com/play/dwpKYXze/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260810-1/f003cd0c79948db8c213ff5bf39f08d2.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "月落海棠犹照人",
+      "link": "https://play.xluuss.com/play/dJ6QPQJd/index.m3u8",
+      "preview_image": "https://xl.xltupian.com/cover/4d16e3fdf02ff2379ec403136f5808fc.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "人前不熟，人后缱绻第二部",
+      "link": "https://play.xluuss.com/play/dBB66Ond/index.m3u8",
+      "preview_image": "https://pic.youkupic.com/upload/vod/20260815-1/4cd3664da9a031f87cb506e93025afb1.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "遇黄仙讨封，我主打一个相信科学",
+      "link": "https://v10.ppqrrs.com/wjv10/202608/13/KmhrLQSeU288/video/index.m3u8",
+      "preview_image": "https://xl.xltupian.com/cover/bfb7d8e26a233a99718a61b60a9139a1.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "玫瑰不低头",
+      "link": "https://v12.ppqrrs.com/wjv12/202608/11/vqbhVrWnKU96/video/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260813-1/efdbfa692d9ab574bf259a3cb63cc30f.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "甩了白富美，谁让我是大反派",
+      "link": "https://play.xluuss.com/play/ejR07ZPe/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260811-1/b4507a86c1c41938e9c4d3e5caf4b045.jpg",
+      "actors": "",
+      "episodes": "全集完结",
+      "duration": "",
+      "description": ""
+    },
+    {
+      "name": "房东的全职高手",
+      "link": "https://v3.ppqrrs.com/wjv3/202608/12/TpjG6k2jmz88/video/index.m3u8",
+      "preview_image": "https://img.lzipic.com/upload/vod/20260815-1/b93cece66a7c0d0f568eb99f53f876af.jpg",
+      "actors": "",
+      "episodes": "全集",
+      "duration": "",
+      "description": ""
     }
   ]
 }
