@@ -1,33 +1,47 @@
 {
   "channel_id": "japan_korea",
-  "updated_at": "2026-08-04T10:00:00Z",
+  "updated_at": "2026-08-16T15:09:26Z",
   "videos": [
     {
       "name": "黑暗荣耀3",
-      "link": "https://example.com/jk1.m3u8",
+      "link": "https://example.com/jk/ep01.m3u8",
       "preview_image": "https://example.com/covers/jk1.jpg",
       "actors": "宋慧乔, 李到晛",
-      "episodes": "第1-8集",
-      "duration": "00:60:00",
-      "description": "文东恩的复仇结束后，新的受害者出现，正义的接力继续..."
-    },
-    {
-      "name": "鱿鱼游戏3",
-      "link": "https://example.com/jk2.m3u8",
-      "preview_image": "https://example.com/covers/jk2.jpg",
-      "actors": "李政宰, 孔刘",
-      "episodes": "第1-8集",
-      "duration": "00:60:00",
-      "description": "成奇勋深入游戏组织内部，揭露更大的阴谋..."
-    },
-    {
-      "name": "孤独的美食家 第12季",
-      "link": "https://example.com/jk3.m3u8",
-      "preview_image": "https://example.com/covers/jk3.jpg",
-      "actors": "松重丰",
       "episodes": "第1-12集",
-      "duration": "00:25:00",
-      "description": "井之头五郎继续在日本各地寻找美食，享受独处的用餐时光..."
+      "duration": "01:00:00",
+      "description": "文东恩的复仇结束后，新的受害者出现，正义的接力继续...",
+      "tags": [
+        "日韩",
+        "复仇",
+        "虐恋"
+      ],
+      "episodes_list": [
+        {
+          "name": "第01集",
+          "link": "https://example.com/jk/ep01.m3u8",
+          "is_vip": false
+        },
+        {
+          "name": "第02集",
+          "link": "https://example.com/jk/ep02.m3u8",
+          "is_vip": false
+        },
+        {
+          "name": "第06集",
+          "link": "https://example.com/jk/ep06.m3u8",
+          "is_vip": false
+        },
+        {
+          "name": "第07集 VIP",
+          "link": "https://example.com/jk/ep07.m3u8",
+          "is_vip": true
+        },
+        {
+          "name": "第12集 VIP",
+          "link": "https://example.com/jk/ep12.m3u8",
+          "is_vip": true
+        }
+      ]
     }
   ]
 }

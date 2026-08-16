@@ -1,33 +1,47 @@
 {
   "channel_id": "western",
-  "updated_at": "2026-08-04T10:00:00Z",
+  "updated_at": "2026-08-16T15:09:26Z",
   "videos": [
     {
       "name": "怪奇物语 第五季",
-      "link": "https://example.com/western1.m3u8",
+      "link": "https://example.com/western/ep01.m3u8",
       "preview_image": "https://example.com/covers/western1.jpg",
       "actors": "米莉·波比·布朗, 菲恩·沃哈德",
       "episodes": "第1-8集",
       "duration": "01:00:00",
-      "description": "霍金斯小镇的终极决战，孩子们长大成人，面对最后的威胁..."
-    },
-    {
-      "name": "纸钞屋 柏林续篇",
-      "link": "https://example.com/western2.m3u8",
-      "preview_image": "https://example.com/covers/western2.jpg",
-      "actors": "佩德罗·阿隆索, 乌苏拉·科贝罗",
-      "episodes": "第1-10集",
-      "duration": "00:50:00",
-      "description": "柏林的传奇故事继续，新的抢劫计划在欧洲上演..."
-    },
-    {
-      "name": "黑镜 第七季",
-      "link": "https://example.com/western3.m3u8",
-      "preview_image": "https://example.com/covers/western3.jpg",
-      "actors": "群星",
-      "episodes": "第1-6集",
-      "duration": "00:55:00",
-      "description": "科技与人性的碰撞继续，更多关于未来的黑暗寓言..."
+      "description": "霍金斯小镇的终极决战，孩子们长大成人，面对最后的威胁...",
+      "tags": [
+        "欧美",
+        "科幻",
+        "悬疑"
+      ],
+      "episodes_list": [
+        {
+          "name": "第01集",
+          "link": "https://example.com/western/ep01.m3u8",
+          "is_vip": false
+        },
+        {
+          "name": "第02集",
+          "link": "https://example.com/western/ep02.m3u8",
+          "is_vip": false
+        },
+        {
+          "name": "第04集",
+          "link": "https://example.com/western/ep04.m3u8",
+          "is_vip": false
+        },
+        {
+          "name": "第05集 VIP",
+          "link": "https://example.com/western/ep05.m3u8",
+          "is_vip": true
+        },
+        {
+          "name": "第08集 VIP",
+          "link": "https://example.com/western/ep08.m3u8",
+          "is_vip": true
+        }
+      ]
     }
   ]
 }
