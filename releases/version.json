@@ -1,13 +1,13 @@
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
-  "updated_at": "2026-08-04T10:00:00Z",
-  "min_supported_version": 100,
-  "download_url": "https://raw.githubusercontent.com/followfollowme/drama/main/releases/ZeroBrowser-v1.1.0.apk",
-  "file_size": 29446144,
-  "md5": "CBED5B87147D4C95B9A512A9C86B2658",
+  "version_code": 5,
+  "version_name": "1.2.2",
+  "updated_at": "2026-08-21T10:00:00Z",
+  "min_supported_version": 5,
+  "download_url": "https://raw.githubusercontent.com/followfollowme/drama/main/releases/ZeroBrowser-v1.2.2.apk",
+  "file_size": 13035,
+  "md5": "a7fa9a15a4eb80f122545835842abd7d",
   "changelog": [
-    "v1.1.0: Zero 一款可以看短剧的浏览器"
+    "v1.2.2: 修复了bug，并优化了浏览体验"
   ],
   "force_update": false
 }
