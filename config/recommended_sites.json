@@ -1,7 +1,15 @@
 {
-  "version": 1,    "updated_at": "2026-08-29",
+  "version": 1,
+  "updated_at": "2026-08-29",
   "sites": [
     { "name": "哔哩哔哩", "url": "https://www.bilibili.com", "icon": "https://www.bilibili.com/favicon.ico" },
-    { "name": "知乎", "url": "https://www.zhihu.com" }
+    { "name": "知乎", "url": "https://www.zhihu.com" },
+    { "name": "好12导航", "url": "https://www.hao12.fun" },
+    { "name": "抖音", "url": "https://www.douyin.com/" },
+    { "name": "快手", "url": "https://www.kuaishou.com/" },
+    { "name": "西瓜视频", "url": "https://www.ixigua.com/" },
+    { "name": "番茄小说", "url": "https://fanqienovel.com/" },
+    { "name": "起点中文网", "url": "https://www.qidian.com/" },
+    { "name": "今日头条", "url": "https://www.toutiao.com/" }
   ]
 }
